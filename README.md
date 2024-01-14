@@ -10,10 +10,11 @@ The project is organized as follows:
 * src/main/java/com/example/demoWall/model/impl: Contains implementations for BasicBlockImpl and CompositeBlockImpl.
 * src/main/java/com/example/demoWall: Contains the Wall class implementing the Structure interface.
 * src/test/java/com/example/demoWall: Contains test cases for the Wall class (WallTest).
-Usage
+  
+## Usage
 To use the Wall class, create an instance by providing a list of blocks. You can then use methods like findBlockByColor, findBlocksByMaterial, and count to analyze the wall structure.
 
-## Example:
+### Example:
 
 ```java
 List<Block> blocks = Arrays.asList(
