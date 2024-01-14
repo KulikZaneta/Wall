@@ -1,6 +1,6 @@
 # **DemoWall**
 
-DemoWall is a simple Java application that models a wall composed of different types of blocks. It includes interfaces for blocks, composite blocks, and a structure. The application provides methods to find blocks by color, find blocks by material, and count the total number of elements in the wall structure.
+DemoWall is a simple Java 17 application that models a wall composed of different types of blocks. It includes interfaces for blocks, composite blocks, and a structure. The application provides methods to find blocks by color, find blocks by material, and count the total number of elements in the wall structure.
 
 ## **Project Structure** 
 
